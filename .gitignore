@@ -149,7 +149,7 @@ static/
 */.DS_Store
 .DS_Store
 .terraform
-data/*
+
 .python_packages
 .chroma
 newdata
@@ -168,7 +168,6 @@ myenv/*
 **/config.yaml
 **/input/
 **/output/
-**/data
 **/logging
 **metastore_db
 .DS_Store

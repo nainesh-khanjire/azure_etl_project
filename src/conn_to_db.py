@@ -1,4 +1,5 @@
-import psycopg2
+import mysql.connector
+from mysql.connector import Error
 import os
 from dotenv import load_dotenv
 
@@ -12,7 +13,7 @@ password = os.getenv("olist_password")
 
 # Establishing the connection
 # Establishing the connection
-conn = psycopg2.connect(
+conn = mysql.connector.connect(
    database=database, user=username, password=password, host=hostname, port=port
 )
 # Creating a cursor object using the cursor() method

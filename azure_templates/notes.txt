@@ -9,3 +9,7 @@ https://filess.io
 
 # tables
 https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-cetas
+
+
+# notebook link
+https://community.cloud.databricks.com/editor/notebooks/280195259768327?o=5556391166085386#command/280195259768335

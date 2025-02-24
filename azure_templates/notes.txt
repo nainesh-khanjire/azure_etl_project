@@ -1,0 +1,11 @@
+# source databa
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+# set connection for databricks and adls
+https://learn.microsoft.com/en-us/azure/databricks/connect/storage/tutorial-azure-storage
+
+# databases
+https://filess.io
+
+# tables
+https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-cetas
